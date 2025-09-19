@@ -1,4 +1,4 @@
-## Laboratory Report: Weak Cookie Encryption Vulnerability
+## Weak Cookie Encryption Vulnerability
 
 ### Methodology
 1. Identified that the cookie value appears to be an MD5 hash.

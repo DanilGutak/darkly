@@ -1,4 +1,4 @@
-## Laboratory Report: Unvalidated Vote Input Vulnerability
+## Unvalidated Vote Input Vulnerability
 
 ### Summary
 A vulnerability was discovered in the voting form, which allows users to submit values outside the intended range due to lack of server-side validation.

@@ -1,4 +1,4 @@
-## Laboratory Report: XSS via Image Link Vulnerability
+## XSS via Image Link Vulnerability
 
 ### Summary
 A cross-site scripting (XSS) vulnerability was discovered in the media page, where user-supplied data is directly inserted into the `data` attribute of an HTML `<object>` tag.

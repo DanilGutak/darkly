@@ -1,4 +1,4 @@
-## Laboratory Report: Admin Password Exposure via robots.txt
+## Admin Password Exposure via robots.txt
 
 ### Summary
 A vulnerability was discovered through information leakage in the `robots.txt` file, leading to exposure of admin credentials and unauthorized access to the admin panel.

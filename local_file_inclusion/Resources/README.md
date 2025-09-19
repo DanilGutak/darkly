@@ -1,4 +1,4 @@
-## Laboratory Report: Local File Inclusion (LFI) Vulnerability
+## Local File Inclusion (LFI) Vulnerability
 
 ### Summary
 Local File Inclusion (LFI) vulnerabilities allow attackers to access sensitive files on the server by manipulating file path parameters in web requests.

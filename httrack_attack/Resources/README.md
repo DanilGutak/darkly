@@ -1,4 +1,4 @@
-## Laboratory Report: Hidden Directory Enumeration via httrack
+## Hidden Directory Enumeration via httrack
 
 ### Summary
 A vulnerability was discovered by enumerating hidden directories listed in `robots.txt`. Using website mirroring tools and a Python script, sensitive information (flags) was extracted from the hidden content.

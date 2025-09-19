@@ -1,4 +1,4 @@
-## Laboratory Report: Email Recovery Form Vulnerability
+## Email Recovery Form Vulnerability
 
 ### Summary
 A vulnerability was discovered in the email recovery form, allowing users to bypass intended restrictions and retrieve a flag by submitting arbitrary email addresses.

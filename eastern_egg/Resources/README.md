@@ -1,4 +1,4 @@
-## Laboratory Report: Easter Egg Vulnerability
+## Easter Egg Vulnerability
 
 ### Summary
 A hidden page ("easter egg") was discovered via a link in the website footer. Accessing this page with specific HTTP headers reveals sensitive information (flag).
